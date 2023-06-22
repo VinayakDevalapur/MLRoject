@@ -13,3 +13,7 @@ python -m venv env (THis will create a folder env)
 
 env\Scripts\activate
 
+Heroku email : vinayak.devalapur22@gmail.com
+heroku api key : f0f1a646-3eb7-4764-89da-64617c4dfccc
+
+
